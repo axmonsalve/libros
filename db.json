@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux",
+      "precio": 20000
+    },
+    {
+      "id": 2,
+      "nombre": "React Y Redux",
+      "precio": 25000
+    },
+    {
+      "nombre": "Aprendiendo Javascript",
+      "precio": "9990",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Java en 12 años y 12 meses y 29 dias con 23 horas",
+      "precio": "10990"
+    }
+  ]
+}
